@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Gaurav Gakhar</h1>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/aa/72/8f/aa728fa367842e992e709a6a90717aab.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/12/9d/52/129d522a7cebb5c700d787a2dcefffb9.gif">
 <h3 align="center">A passionate Computer Science Engineer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravgak&label=Profile%20views&color=0e75b6&style=flat" alt="gauravgak" /> </p>
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **gakhargaurav61@gmail.com**
 
-- ⚡ Fun fact **Mitochondria is the powerhouse of cell.**
+- ⚡ Fun fact **This image is of a fractal.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
